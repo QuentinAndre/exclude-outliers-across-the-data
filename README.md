@@ -34,3 +34,17 @@ retrieved from [the OSF repository of the paper][1].
 
   [1]: https://osf.io/e8xnz/
   [2]: https://www.anaconda.com/distribution/
+
+## Citation
+
+To cite this work, please cite the published article (see [`CITATION.cff`](CITATION.cff) for machine-readable metadata):
+
+> André, Q. (2021). Outlier Exclusion Procedures Must be Blind to the Researcher's Hypothesis. *Journal of Experimental Psychology: General*. https://doi.org/10.1037/xge0001069
+
+Paper page: https://quentinandre.net/publications/outliers-blind-hypothesis/
+
+## License
+
+- Original **code** by the author is released under the [MIT License](LICENSE).
+- Original **text and figures** are released under [CC-BY-4.0](LICENSE-CC-BY-4.0.txt).
+- The **Cao, Kong & Galinsky (2020)** data in `Data/` remains under its original license and terms.

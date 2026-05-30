@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the published article below."
+title: "Outlier Exclusion Procedures Must be Blind to the Researcher's Hypothesis"
+type: dataset
+authors:
+  - given-names: Quentin
+    family-names: André
+repository-code: "https://github.com/QuentinAndre/exclude-outliers-across-the-data"
+url: "https://quentinandre.net/publications/outliers-blind-hypothesis/"
+license:
+  - MIT
+  - CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "Outlier Exclusion Procedures Must be Blind to the Researcher's Hypothesis"
+  authors:
+    - given-names: Quentin
+      family-names: André
+  journal: "Journal of Experimental Psychology: General"
+  year: 2021
+  doi: "10.1037/xge0001069"
